@@ -28,3 +28,7 @@ https://www.cnblogs.com/h--d/p/6001366.html
      </plugin>
   </plugins>
 </build>
+
+mvn package
+
+java -jar xxx.jar
