@@ -29,6 +29,6 @@ https://www.cnblogs.com/h--d/p/6001366.html
   </plugins>
 </build>
 
-mvn package
+mvn clean package
 
 java -jar xxx.jar
